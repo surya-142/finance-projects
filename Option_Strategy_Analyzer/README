@@ -1,1 +1,7 @@
-This project is an option strategy analyzer. I noticed a lack of interactive educational tools for understanding different volatility spreads, so I created this tool to easily understand the different strategies. You can add different options to your portfolio, and depending on what you have entered, you can see the type of strategy.
+Welcome to the Option Strategy Analyzer, an interactive educational tool designed to enhance your understanding of various volatility spreads in options trading. This project was born out of a realization that there is a lack of accessible and engaging tools for comprehending different option strategies related to volatility.
+
+Understanding volatility spreads can be a challenging task, especially for those new to options trading. With this analyzer, I set out to bridge that gap by creating an intuitive and user-friendly tool that allows you to explore and comprehend different strategies effortlessly.
+
+The analyzer enables you to build your options portfolio by adding different options with specific parameters. Based on the inputs you provide, the tool dynamically generates and visualizes the corresponding strategy, helping you gain insights into its risk-reward profile and potential outcomes. Whether you're interested in exploring strategies like straddles, strangles, butterflies, or condors, this tool provides a hands-on experience that simplifies the learning process.
+
+This project aims to serve as an interactive educational resource for traders, investors, and anyone interested in learning about option strategies. By offering a practical way to experiment with volatility spreads, the Option Strategy Analyzer empowers users to grasp the intricacies of these strategies and make more informed decisions.
