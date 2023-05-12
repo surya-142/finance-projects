@@ -1,0 +1,1 @@
+This project is an option strategy analyzer. I noticed a lack of interactive educational tools for understanding different volatility spreads, so I created this tool to easily understand the different strategies. You can add different options to your portfolio, and depending on what you have entered, you can see the type of strategy.
