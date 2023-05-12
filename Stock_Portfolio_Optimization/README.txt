@@ -1,4 +1,4 @@
-Welcome to the Optimal Stock Investment Strategy project, a winning entry from a college competition! This project showcases one of my first Python endeavors, where I leveraged my knowledge of linear programming, pandas, and NumPy to develop a powerful solution.
+Welcome to the Stock Portfolio Optimization project, a winning entry from a college competition! This project showcases one of my first Python endeavors, where I leveraged my knowledge of linear programming, pandas, and NumPy to develop a powerful solution.
 
 In the competition, participants were provided with historical stock data featuring arbitrary tickers, along with budget and allocation constraints. The task at hand was to determine a strategy that would maximize the returns over a given period.
 
