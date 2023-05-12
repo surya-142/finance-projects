@@ -1,5 +1,9 @@
 # finance-projects
 
-This is a repository to share some of the finance projects I have built up over the years. Many of these are a work in progress, but I want to share them here anyways to show people what I have been thinking about.
+Welcome to my Finance Projects repository! Here, I share some of the finance projects I've been working on over the years. These projects represent my ongoing exploration of various topics in finance, with a recent focus on option pricing and volatility analysis. While some projects are still a work in progress, I believe in sharing my learning journey to demonstrate my commitment to professional growth in the financial industry.
 
-Most recently, I have been looking to learn more about option pricing and volatility. My most recent projects highlight the learning I have committed to as I seek a job in the financial industry.
+By sharing these projects, I aim to showcase my thought process, problem-solving skills, and ability to apply theoretical concepts to real-world scenarios. Through hands-on implementation and analysis, I delve into the intricacies of option pricing models, volatility forecasting, and related topics. Each project represents a stepping stone in my continuous quest to deepen my knowledge and expertise.
+
+Whether you are a fellow finance enthusiast, a potential employer, or simply curious about the financial industry, I invite you to explore these projects. Your feedback, suggestions, and collaboration are greatly appreciated as I strive to refine my skills and contribute to the ever-evolving field of finance.
+
+Thank you for joining me on this exciting journey!
